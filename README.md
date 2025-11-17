@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi! 😉
 
-## 🚀 My Project: IMAEZIM
-[GitHub Repository](https://github.com/imyoonsoo/IMAEZIM)
+
+
+## 🚀 My Project
+[IMAEZIM(이매짐)](https://github.com/imyoonsoo/IMAEZIM)
 
 <!--
 **imyoonsoo/imyoonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
