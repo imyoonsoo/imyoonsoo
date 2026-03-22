@@ -1,10 +1,21 @@
-## Hi! 😉
+## Hi!
 
 
 
-## 🚀 My Project
-[IMAEZIM(이매짐)](https://github.com/imyoonsoo/IMAEZIM)
+## My Project🚀
+🎓 **Graduation Project**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
+1. [덕스토랑(Dukstaurant)](https://github.com/imyoonsoo/Dukstaurant)
+2. [IMAEZIM(이매짐)](https://github.com/imyoonsoo/IMAEZIM)
+
+---
+
+🌱 **Currently learning**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Frontend project coming soon..!
 <!--
 **imyoonsoo/imyoonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[덕스토랑](https://github.com/imyoonsoo/Dukstaurant)
 
 <!--
 **imyoonsoo/imyoonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
