@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Frontend project coming soon..!
+&nbsp;&nbsp;&nbsp;&nbsp; Frontend project coming soon! 💻🐤✨
 <!--
 **imyoonsoo/imyoonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
