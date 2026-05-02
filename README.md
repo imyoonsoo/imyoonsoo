@@ -18,7 +18,7 @@
   ### ****Featured Projects**&nbsp;💻❤️‍🔥**
   | Name | Stack | Description | Note | Link |
   | :--- | :---: | :--- | :--- | :--- |
-  | **🍚🍴 덕스토랑 (Dukstaurant)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 활동 칼로리 기반 메뉴 추천 및 학식 선물하기,<br/> 사용자-관리자 이원화 시스템을 구축한 모바일 학식 플랫폼 | 캡스톤 프로젝트 🎓 | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;덕스토랑 (Dukstaurant)</a> |
+  | **🍚🍴 덕스토랑 (Dukstaurant)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 활동 칼로리 기반 메뉴 추천, 선물하기<br/> 사용자-관리자 이원화 시스템을 구축한 모바일 학식 플랫폼 | 캡스톤 프로젝트 🎓 | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;덕스토랑 (Dukstaurant)</a> |
   | **👁️ IMAEZIM (이매짐)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | **AR 메모**를 현실 공간에 생성하고 공유하는 새로운 SNS 플랫폼 | 캡스톤 프로젝트 🎓<br>캡스톤디자인 경연대회 수상 🏆 | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM (이매짐)</a> |
   
 <br><br>
