@@ -7,7 +7,7 @@
 
 
 ## ✨ Featured Achievements
-> **조금 느리지만, 아니 많이 느리지만 중요한 건 포기하지 않는 마음과 노력**
+> **조금 느리지만, 아니 많이 느리지만 중요한 건 포기하지 않는 마음**
 
   ### **Awards**&nbsp;🏆
   [![2021](https://img.shields.io/badge/2021-컴퓨팅사고_융합경진대회_장려상-FFCC00?style=for-the-badge&logo=monoprix&logoColor=white)](https://www.duksung.ac.kr/bbs/boardView.do?bsIdx=40&bIdx=520551&page=1&menuId=1062&bcIdx=0&searchCondition=SUBJECT&searchKeyword=%5B%EC%9C%B5%ED%95%A9%EC%82%AC%EA%B3%A0%EB%A0%A5%EC%84%BC%ED%84%B0%5D%202021%ED%95%99%EB%85%84%EB%8F%84%20%27%EC%A0%9C2%ED%9A%8C%20%EC%BB%B4%ED%93%A8%ED%8C%85%EC%82%AC%EA%B3%A0%20%EC%9C%B5%ED%95%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%E2%80%99%20%EC%88%98%EC%83%81%EC%9E%90%20%EB%B0%9C%ED%91%9C)
