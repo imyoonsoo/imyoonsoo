@@ -31,6 +31,6 @@
 <br>
 
 <div align="center">
-  <strong><p>New Project coming soon!&nbsp;&nbsp;^0^<p></strong>
+  <h3>New Project coming soon!&nbsp;&nbsp;^0^</h3>
     🔥🔥🔥
 </div>
