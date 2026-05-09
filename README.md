@@ -24,7 +24,7 @@
 ### **✨ Featured Achievements**
 > **조금 느리지만, 아니 많이 느리지만 중요한 건 포기하지 않는 마음**
 
-  ### ****Awards**&nbsp;🏆**
+  ### ****Awards**&nbsp;🏆** https://docs.google.com/document/d/1lMluTHxDtFr1Aic8WcsbX9r81nRElkXYbkIvuGwbNEE/edit?usp=sharing
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
