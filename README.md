@@ -13,7 +13,7 @@
 
 
 
-  ![Learning](https://img.shields.io/badge/Learning-Frontend_Stack-F5F5F0?style=for-the-badge&logo=react&logoColor=white)
+  ![Learning](https://img.shields.io/badge/Learning-Frontend_Stack-5D1C6A?style=for-the-badge&logo=react&logoColor=white)
 
   [![CurrentlyLearningIocon](https://skillicons.dev/icons?i=git,html,css,js,react,ts,nextjs,tailwind&perline=8)](https://skillicons.dev)
   <br>
@@ -24,7 +24,7 @@
 ### **✨ Featured Achievements**
 > **조금 느리지만, 아니 많이 느리지만 중요한 건 포기하지 않는 마음**
 
-  ### ****Awards**&nbsp;🏆** https://docs.google.com/document/d/1lMluTHxDtFr1Aic8WcsbX9r81nRElkXYbkIvuGwbNEE/edit?usp=sharing
+  ### ****Awards**&nbsp;🏆**
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
