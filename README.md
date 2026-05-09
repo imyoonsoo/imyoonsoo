@@ -11,11 +11,9 @@
   ### **🛠️ Currently Learning**
   > The ropes of Frontend development
 
-  <br>
+
 
   ![Learning](https://img.shields.io/badge/Learning-Frontend_Stack-F5F5F0?style=for-the-badge&logo=react&logoColor=white)
-
-
 
   [![CurrentlyLearningIocon](https://skillicons.dev/icons?i=git,html,css,js,react,ts,nextjs,tailwind&perline=8)](https://skillicons.dev)
   <br>
@@ -27,8 +25,13 @@
 > **조금 느리지만, 아니 많이 느리지만 중요한 건 포기하지 않는 마음**
 
   ### ****Awards**&nbsp;🏆**
-  [![2021](https://img.shields.io/badge/2021-컴퓨팅사고_융합경진대회_장려상-FFCC00?style=for-the-badge&logo=monoprix&logoColor=white)](link) [![2022](https://img.shields.io/badge/2022-컴퓨팅사고_융합경진대회_우수상-BAD8B6?style=for-the-badge&logo=monoprix&logoColor=white)](link) [![2022](https://img.shields.io/badge/2022-DS데이터톤_장려상-0A1D56?style=for-the-badge&logo=monoprix&logoColor=white)](link) [![2023](https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-820000?style=for-the-badge&logo=monoprix&logoColor=white)](link)
-  <br><br>
+<p align="left">
+  <a href="링크1"><img src="https://img.shields.io/badge/2021-컴퓨팅사고_융합경진대회_장려상-FFCC00?style=for-the-badge&logo=monoprix&logoColor=white"/></a>
+  <a href="링크2"><img src="https://img.shields.io/badge/2022-컴퓨팅사고_융합경진대회_우수상-BAD8B6?style=for-the-badge&logo=monoprix&logoColor=white"/></a>
+  <a href="링크3"><img src="https://img.shields.io/badge/2022-DS데이터톤_장려상-0A1D56?style=for-the-badge&logo=monoprix&logoColor=white"/></a>
+  <a href="링크4"><img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-820000?style=for-the-badge&logo=monoprix&logoColor=white"/></a>
+</p><br>
+
   ### ****Featured Projects**&nbsp;💻❤️‍🔥**
   | Name | Stack | Description | Note | Link |
   | :--- | :---: | :--- | :--- | :--- |
