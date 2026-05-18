@@ -1,15 +1,15 @@
 <div align="center">
-  <p>imyoonsoo &nbsp;|&nbsp; YOONSOO &nbsp;|&nbsp; 서윤수</p>
+  <p>imyoonsoo &nbsp;|&nbsp; 서윤수</p>
 
-  # 👋 IMYOONSOO
-  > **Frontend Development Student 🌱🐤**
+  # 🌞 I'm YOONSOO
+  > **Aspiring Frontend Developer.**
 </div><br><br>
 
 
 
   
-  ### **🛠️ Currently Learning**
-  > The ropes of Frontend development
+  ### **📝 Currently Learning**
+  > ▭-▭ ✧
 
 
 
@@ -21,8 +21,8 @@
 
 <br><br>
 
-### **✨ Featured Achievements**
-> **조금 느리지만, 아니 많이 느리지만 중요한 건 포기하지 않는 마음**
+### **✨️ Featured Achievements**
+> **＾＿＾**
 
   ### ****Awards**&nbsp;🏆**
 <div align="center">
@@ -35,8 +35,8 @@
   </table>
 </div><br>
 
-  ### ****Featured Projects**&nbsp;💻❤️‍🔥**
-  | Name | Stack | Description | Note | Link |
-  | :--- | :---: | :--- | :--- | :--- |
-  | **🍚🍴 덕스토랑 (Dukstaurant)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 활동 칼로리 기반 식단 추천 및 선물하기, 이원화 시스템 기반 **스마트 학식 플랫폼** | 캡스톤 프로젝트 🎓 | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;덕스토랑<br>(Dukstaurant)</a> |
-  | **👁️ IMAEZIM (이매짐)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | **AR 메모를 현실 공간에 생성, 공유**하는 새로운 SNS 플랫폼 | 캡스톤 프로젝트 🎓<br>**캡스톤디자인 경연대회 수상 🏆** | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM<br>(이매짐)</a> |
+  ### ****Featured Projects**&nbsp;❤️‍🔥**
+  | Name | Stack | Note | Link |
+  | :--- | :---: | :--- | :--- |
+  | **🍚🍴 덕스토랑 (Dukstaurant)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 캡스톤 프로젝트 🎓 | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;덕스토랑<br>(Dukstaurant)</a> |
+  | **👁️ IMAEZIM (이매짐)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 캡스톤 프로젝트 🎓<br>캡스톤디자인 경연대회 수상 🏆 | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM<br>(이매짐)</a> |
