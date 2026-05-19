@@ -1,7 +1,7 @@
 <div align="center">
   <p>imyoonsoo &nbsp;|&nbsp; 서윤수</p>
 
-  # 🌞 I'm YOONSOO
+  # ☁️ I'm YOONSOO
   > **Aspiring Frontend Developer.**
 </div><br><br>
 
@@ -21,7 +21,7 @@
 
 <br><br>
 
-### **✨️ Featured Achievements**
+### **👾 Featured Achievements**
 > **＾＿＾**
 
   ### ****Awards**&nbsp;🏆**
@@ -35,8 +35,8 @@
   </table>
 </div><br>
 
-  ### ****Featured Projects**&nbsp;❤️‍🔥**
+  ### ****Featured Projects**&nbsp;💻**
   | Name | Stack | Note | Link |
   | :--- | :---: | :--- | :--- |
   | **🍚🍴 덕스토랑 (Dukstaurant)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 캡스톤 프로젝트 🎓 | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;덕스토랑<br>(Dukstaurant)</a> |
-  | **👁️ IMAEZIM (이매짐)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 캡스톤 프로젝트 🎓<br>캡스톤디자인 경연대회 수상 🏆 | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM<br>(이매짐)</a> |
+  | **🌐 IMAEZIM (이매짐)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 캡스톤 프로젝트 🎓<br>캡스톤디자인 경연대회 수상 🏆 | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM<br>(이매짐)</a> |
