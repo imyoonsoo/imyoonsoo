@@ -9,11 +9,6 @@
 
 
 ### **✏️ Learning**
-> ▭-▭ ⊹✦°
-
-
-
-  ![Learning](https://img.shields.io/badge/Stack-Frontend-5D1C6A?style=for-the-badge&logo=react&logoColor=black)
 
   [![CurrentlyLearningIocon](https://skillicons.dev/icons?i=git,js,react,tailwind,ts,nextjs&perline=8)](https://skillicons.dev)
   <br>
@@ -21,10 +16,9 @@
 
 <br><br>
 
-### **🎀 Featured Achievements**
-> **⋆｡♡ﾟ☁︎ ⋆｡ ﾟ☁︎ ﾟ｡♡⋆｡**
+### **❤️‍🔥 Featured Achievements**
 
-  ### ****Awards**&nbsp;🏆**
+  ### ****Awards**&nbsp;**
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -35,8 +29,8 @@
   </table>
 </div><br>
 
-  ### ****Projects**&nbsp;💻**
+  ### ****Projects**&nbsp;**
   | name | repository | note |
   | :--- | :--------- | :--- |
-  | **🍚🍴 덕스토랑** | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;Dukstaurant</a> | 캡스톤 프로젝트 🎓
-  | **🌐 IMAEZIM** | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM</a> | 캡스톤 프로젝트 🎓<br>2023 캡스톤디자인 경연대회 수상 ✨
+  | **🍚🍴 Dukstaurant** | <a href="https://github.com/imyoonsoo/Dukstaurant"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;Dukstaurant</a> | 캡스톤 프로젝트
+  | **🌐 IMAEZIM** | <a href="https://github.com/imyoonsoo/IMAEZIM"><img src="https://skillicons.dev/icons?i=github" width="22" />&nbsp;IMAEZIM</a> | 캡스톤 프로젝트<br>2023 캡스톤디자인 경연대회 수상 ✨
