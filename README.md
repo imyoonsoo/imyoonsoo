@@ -27,9 +27,10 @@
 <summary><b>Nomadly</b> — 액티비티 예약 서비스 · <code>Next.js</code> <code>TypeScript</code> <code>TanStack Query</code></summary>
 <br>
 
-체험 탐색·예약·찜부터 운영까지 지원하는 액티비티 플랫폼. 로그인/회원가입, 내 정보 페이지, 공통 컴포넌트(Button, FilterButton, AuthLayout) 담당.
+체험 탐색·예약·찜부터 운영까지 지원하는 액티비티 올인원 플랫폼. 
+로그인/회원가입, 내 정보 페이지, 공통 컴포넌트(Button, FilterButton, AuthLayout) 담당.
 
-[GitHub](https://github.com/imyoonsoo/Nomadly) · [Live](https://nomadly-imyoonsoo.vercel.app)
+[GitHub](https://github.com/imyoonsoo/Nomadly) · [Vercel 배포](https://nomadly-imyoonsoo.vercel.app)
 </details>
 
 <details>
@@ -38,7 +39,7 @@
 
 칼럼 추가·수정, 삭제 얼럿 모달, 프로필 이미지 변경, 공통 Button/Dialog 컴포넌트(cva 기반 variant 통합) 담당.
 
-[GitHub](https://github.com/imyoonsoo/Tasklog) · [Live](https://tasklog-imyoonsoo.vercel.app)
+[GitHub](https://github.com/imyoonsoo/Tasklog) · [Vercel 배포](https://tasklog-imyoonsoo.vercel.app)
 </details>
 
 <details>
@@ -47,7 +48,7 @@
 
 공간 특징점 인식으로 위치를 파악해 AR 메모를 남기고 공유하는 5인 졸업 프로젝트(캡스톤디자인 경연대회 우수상). AR 실내 메모, 게임 3D 모델링, Android 앱 개발 담당.
 
-[GitHub](https://github.com/imyoonsoo/IMAEZIM) · [Demo](https://youtu.be/tUaR9V3uTP4)
+[GitHub](https://github.com/imyoonsoo/IMAEZIM) · [Demo video (Youtube)](https://youtu.be/tUaR9V3uTP4)
 </details>
 
 <details>
