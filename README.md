@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[GitHub](https://github.com/imyoonsoo) · [LinkedIn](https://www.linkedin.com/in/imyoonsoo/) · [Blog](https://velog.io/@seoyoonsoo) · [Portfolio](https://imyoonsoo-portfolio.notion.site)
+[GitHub](https://github.com/imyoonsoo) · [LinkedIn](https://www.linkedin.com/in/imyoonsoo/) · [Blog](https://velog.io/@seoyoonsoo)
 
 </div>
 <br>
