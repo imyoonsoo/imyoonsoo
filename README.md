@@ -32,6 +32,6 @@
   <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-2C272E?style=for-the-badge&logo=monoprix&logoColor=white" /><br><br>
 </div>
   <div align="center">
-    <a href="https://docs.google.com/document/d/e/2PACX-1vR4YRtMI64tDm9EgbtodCRnZ6K5dtlQ-JYYqOb1Y-Rm-K6Vj-UMU3WpIgXPi0cEfJJ36Q-elXfAijuB/pub">Credential Verification</a>
+    <a href="https://github.com/imyoonsoo/imyoonsoo/blob/main/credential_verification.pdf">Credential Verification</a>
   </div>
 </details>
