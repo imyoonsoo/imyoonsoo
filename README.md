@@ -15,7 +15,7 @@
 </div>
 <br>
 
-## ✏️ Learning
+## ✏️ 스택
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,js,git&perline=10" alt="Learning" />
 </p>
