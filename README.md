@@ -18,7 +18,7 @@
 
 ## 🔧 Stacks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,js,git&perline=10" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,js,git&perline=10" alt="Stacks" />
 </p>
 <br>
 
