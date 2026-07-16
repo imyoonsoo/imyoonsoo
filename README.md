@@ -11,8 +11,6 @@
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/imyoonsoo) · [Blog](https://velog.io/@seoyoonsoo)
-
 </div>
 <br>
 
@@ -30,25 +28,25 @@
 
 <details>
 <summary><b>Nomadly</b></summary><br>
-  <b>팀 프로젝트 (K-Digital Training)</b> ― 취향에 맞는 체험 탐색·예약부터 체험상품 관리까지 액티비티 올인원 플랫폼<br>
+  <b>팀 프로젝트 </b> ― 관심 체험 예약부터 관리까지 액티비티 올인원 플랫폼<br>
   <a href="https://github.com/imyoonsoo/Nomadly">GitHub</a> · <a href="https://nomadly-imyoonsoo.vercel.app">Vercel 배포</a>
 </details>
 
 <details>
 <summary><b>Tasklog</b></summary><br>
-  <b>팀 프로젝트 (K-Digital Training)</b> ― 칸반보드 기반 스마트 일정관리 서비스<br>
+  <b>팀 프로젝트</b> ― 칸반보드형 일정관리 서비스<br>
   <a href="https://github.com/imyoonsoo/Tasklog">GitHub</a> · <a href="https://tasklog-imyoonsoo.vercel.app">Vercel 배포</a>
 </details>
 
 <details>
 <summary><b>IMAEZIM</b></summary><br>
-  <b>팀 프로젝트 (캡스톤)</b> ― AR 메모를 남기고 공유하는 AR 메모 SNS 플랫폼<br>
+  <b>팀 프로젝트 (캡스톤)</b> ― AR 메모 공유 플랫폼<br>
   <a href="https://github.com/imyoonsoo/IMAEZIM">GitHub</a> · <a href="https://youtu.be/tUaR9V3uTP4">Demo video (Youtube)</a>
 </details>
 
 <details>
 <summary><b>덕장이</b></summary><br>
-  <b>개인 프로젝트</b> ― 교내 장학금 정보를 안내하는 챗봇. 웹 프론트엔드 기반 LLM API를 연동해 실서비스 구축을 목표로 리빌드 진행 중<br>
+  <b>개인 프로젝트</b> ― 교내 장학금 정보 제공 챗봇. LLM API 연동 및 웹 프론트엔드 기술을 더해 실서비스 구축을 목표로 진행 중입니다.<br>
 </details>
 
 </details>
