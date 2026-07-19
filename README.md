@@ -64,7 +64,7 @@
 </div>
   <div align="center">
 
-[Award Verification](https://drive.google.com/file/d/1fN0Bl6pkrYVg7fDP_ybtMeZ8CiHtCunp/view?usp=sharing)
+[Certificate of Merit](https://drive.google.com/file/d/11S7GxbHZQV7JmYwipE52jDUGsM3iWjAl/view?usp=sharing)
 
 </div>
 </details>
