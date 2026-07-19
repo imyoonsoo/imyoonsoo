@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-2C272E?style=for-the-badge&logo=monoprix&logoColor=white" /><br><br>
 </div>
   <div align="center">
-    <a href="https://github.com/imyoonsoo/imyoonsoo/blob/main/award-verification.pdf">Awards verification</a>
-  </div>
+
+[Award Verification](https://drive.google.com/file/d/1fN0Bl6pkrYVg7fDP_ybtMeZ8CiHtCunp/view?usp=sharing)
+
+</div>
 </details>
