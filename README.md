@@ -26,13 +26,9 @@
 - **덕장이** — 교내 장학금 정보 제공 챗봇 (진행 중)<br><br>
 
 ## ✨ Awards
-
 <div align="center">
-
-  <img src="https://img.shields.io/badge/2021-컴퓨팅사고_융합경진대회_장려상-2C272E?style=for-the-badge&logo=monoprix&logoColor=white" />
-  <img src="https://img.shields.io/badge/2022-컴퓨팅사고_융합경진대회_우수상-2C272E?style=for-the-badge&logo=monoprix&logoColor=white" />
-  <img src="https://img.shields.io/badge/2022-DS데이터톤_장려상-2C272E?style=for-the-badge&logo=monoprix&logoColor=white" />
-  <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-2C272E?style=for-the-badge&logo=monoprix&logoColor=white" /><br><br>
-
-  [Certificate of Merit](https://drive.google.com/file/d/11S7GxbHZQV7JmYwipE52jDUGsM3iWjAl/view?usp=sharing)
+  <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-d1d5db?style=for-the-badge&logo=monoprix&logoColor=d1d5db" />
+  <img src="https://img.shields.io/badge/2022-컴퓨팅사고_융합경진대회_우수상-d1d5db?style=for-the-badge&logo=monoprix&logoColor=d1d5db" /><br>
+  외 2건<br><br>
+  <a href="https://drive.google.com/file/d/11S7GxbHZQV7JmYwipE52jDUGsM3iWjAl/view?usp=sharing">Certificate of Merit</a>
 </div>
