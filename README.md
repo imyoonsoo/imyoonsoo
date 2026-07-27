@@ -53,7 +53,7 @@ _Aspiring Frontend Developer._
 
 **덕장이** (개인) ― LLM 기반 교내 장학금 안내 카카오톡/웹 챗봇
 
-<sub>대표 프로젝트는 아래 Pinned에서 확인 가능합니다.</sub>
+대표 프로젝트는 아래 Pinned에서 확인 가능합니다.
 
 </div>
 
