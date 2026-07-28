@@ -2,7 +2,7 @@
 
 > imyoonsoo &nbsp;·&nbsp; 서윤수
 
-# ☁️ YOONSOO
+# YOONSOO SEO
 
 _Aspiring Frontend Developer._
 
