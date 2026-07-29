@@ -51,8 +51,7 @@ _Aspiring Frontend Developer._
 
 <div align="center">
 
-**덕장이** (개인) ― LLM 기반 교내 장학금 안내 카카오톡/웹 챗봇
-
+**[덕장이](https://dukjangi.notion.site/)**&nbsp;&nbsp;(개인) <br><br>
 대표 프로젝트는 아래 Pinned에서 확인 가능합니다.
 
 </div>
@@ -62,19 +61,14 @@ _Aspiring Frontend Developer._
 ## 🎖️ Awards
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-d1d5db?style=for-the-badge" alt="2023 캡스톤디자인 경연대회 우수상" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2022-컴퓨팅사고_융합경진대회_우수상-d1d5db?style=for-the-badge" alt="2022 컴퓨팅사고 융합경진대회 우수상" />
-    </td>
-  </tr>
+    <div align="center">
+      <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-1e3a5f?style=for-the-badge" alt="2023 캡스톤디자인 경연대회 우수상" />
+    </div>
 </table>
 
 <div align="center">
 
-외 2건
+외 3건
 
 <a href="https://drive.google.com/file/d/11S7GxbHZQV7JmYwipE52jDUGsM3iWjAl/view?usp=sharing">Certificate of Merit</a>
 
