@@ -1,10 +1,8 @@
 <div align="center">
 
-> imyoonsoo &nbsp;·&nbsp; 서윤수
+ # YOONSOO SEO
 
-# YOONSOO SEO
-
-_Aspiring Frontend Developer._
+> _Frontend Developer_
 
 </div>
 
