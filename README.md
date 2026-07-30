@@ -49,7 +49,7 @@
 
 <div align="center">
 
-**[덕장이](https://dukjangi-bot.notion.site/)**&nbsp;&nbsp;(개인) <br><br>
+**[dukjangi-bot](https://dukjangi-bot.notion.site/)**&nbsp;&nbsp;(개인) <br><br>
 대표 프로젝트는 아래 Pinned에서 확인 가능합니다.
 
 </div>
