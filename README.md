@@ -1,8 +1,8 @@
 <div align="center">
 
- # YOONSOO SEO
+# YOONSOO SEO
 
-> _Frontend Developer_
+> 동작하는 코드에서 한 번 더 나아갑니다.
 
 </div>
 
@@ -13,9 +13,9 @@
 <table align="center">
   <tr>
     <td align="center"><strong>Core</strong></td>
-    <td align="center"><strong>Data · Form</strong></td>
+    <td align="center"><strong>Data</strong></td>
     <td align="center"><strong>Styling</strong></td>
-    <td align="center"><strong>Tooling · Deploy</strong></td>
+    <td align="center"><strong>Workflow</strong></td>
   </tr>
   <tr valign="top">
     <td align="center">
@@ -49,25 +49,6 @@
 
 <div align="center">
 
-**[dukjangi-bot](https://dukjangi-bot.notion.site/)**&nbsp;&nbsp;(개인) <br><br>
-대표 프로젝트는 아래 Pinned에서 확인 가능합니다.
-
-</div>
-
-<br>
-
-## 🎖️ Awards
-
-<table align="center">
-    <div align="center">
-      <img src="https://img.shields.io/badge/2023-캡스톤디자인_경연대회_우수상-1e3a5f?style=for-the-badge" alt="2023 캡스톤디자인 경연대회 우수상" />
-    </div>
-</table>
-
-<div align="center">
-
-외 3건
-
-<a href="https://drive.google.com/file/d/11S7GxbHZQV7JmYwipE52jDUGsM3iWjAl/view?usp=sharing">Certificate of Merit</a>
+[dukjangi-bot](https://dukjangi-bot.notion.site/)&nbsp;&nbsp;(개인)
 
 </div>
